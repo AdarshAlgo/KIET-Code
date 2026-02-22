@@ -19,6 +19,7 @@ public class FactorialNumber {
 		}
 		System.out.println("Factorial is : "+fact);
 		}
+		sc.close();
 	}
 
 }
