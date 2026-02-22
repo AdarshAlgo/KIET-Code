@@ -2,11 +2,12 @@ package numbers;
 
 import java.util.Scanner;
 
-public class reversenumber {
+public class ReverseNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc =  new Scanner(System.in);
+		System.out.print("Enter the number : ");
 		int n = sc.nextInt();
 		int n2=n;
 		int rev =0;
@@ -17,7 +18,7 @@ public class reversenumber {
 			n2=n2/10;
 			
 		}
-		System.out.println(rev);
+		System.out.println("Reverse Number is : "+rev);
 
 	}
 
