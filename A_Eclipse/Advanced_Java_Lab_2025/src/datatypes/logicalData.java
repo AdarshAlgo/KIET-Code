@@ -11,11 +11,6 @@ public class logicalData {
 		boolean b = false;
 		
 		System.out.println(b);
-		
-		boolean c ;
-		System.out.println(c);
-		System.out.println(a);
-
 
 	}
 
