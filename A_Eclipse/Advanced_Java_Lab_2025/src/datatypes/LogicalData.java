@@ -1,6 +1,6 @@
 package datatypes;
 
-public class logicalData {
+public class LogicalData {
 	
 	public static void main(String[] args) {
 		
