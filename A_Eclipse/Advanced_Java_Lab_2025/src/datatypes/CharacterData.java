@@ -11,9 +11,6 @@ public class CharacterData {
 		System.out.println(b);
 		
 		//char c = a+b;
-		char c ;
-		System.out.println(c);
-
 
 	}
 
