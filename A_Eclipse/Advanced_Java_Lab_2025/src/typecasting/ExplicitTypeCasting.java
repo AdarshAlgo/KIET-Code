@@ -12,6 +12,13 @@ public class ExplicitTypeCasting {
 		int b = (int) (a);
 		System.out.println(b);
 		
+		char c = 'z';
+		int d = (int) (c);
+		System.out.println(d);
+		
+		char e = ' ';
+		int f = (int) (e);
+		System.out.println(f);
 		
 	}
 
