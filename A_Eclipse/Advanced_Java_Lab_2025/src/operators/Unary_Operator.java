@@ -1,6 +1,6 @@
 package operators;
 
-public class Postfix_Prefix_Operator {
+public class Unary_Operator {
 
 	public static void main(String[] args) {
 
