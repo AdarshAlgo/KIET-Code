@@ -1,13 +1,12 @@
 package pattern;
 
-public class NumPatternReverse {
-
+public class RightAngledTriangle {
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int row = 11;
-		for(int i=row -1;i>=0;i--) {
+		for(int i =0;i<=10;i++) {
 			for(int j=0;j<=i;j++) {
-				System.out.print(i-j+" ");
+				System.out.print(j+" ");
 			}
 			System.out.println();
 		}
