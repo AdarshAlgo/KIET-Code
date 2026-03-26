@@ -1,5 +1,6 @@
 package stream;
 
+import java.util.*;
 public class AdditionOfElements {
 
 	public static void main(String[] args) {
