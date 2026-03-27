@@ -1,4 +1,4 @@
-package steamsorting;
+package stream;
 
 import java.util.*;
 public class Skip3Elements {
