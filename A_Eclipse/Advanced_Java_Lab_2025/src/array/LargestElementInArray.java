@@ -1,5 +1,6 @@
+package array;
 
-public class Largestelement {
+public class LargestElementInArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
