@@ -23,6 +23,7 @@ class S {
 			}
 			System.out.println();
 		}
+		sc.close();
 
 	}
 
