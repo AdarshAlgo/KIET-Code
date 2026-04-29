@@ -1,7 +1,9 @@
 package oops;
 
 class test{
+	
 	int a = 25;
+	
 }
 public class ObjectCreation {
 
